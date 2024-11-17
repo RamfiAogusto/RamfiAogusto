@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I am currently looking for a job.<br>👯 I'm looking to collaborate on web page creation projects that challenge my skills.<br>🌱 I am currently learning React and TypeScript.
 
+🔭 I am currently working at Dentsu Dominicana.<br>
+🌱 I am learning TypeScript and backend technologies.<br>
+👯 I am looking to collaborate on web page creation projects that challenge my skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ramfi_aog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ramfi-aogusto-de-la-cruz-geraldino-aa64b5272) 
